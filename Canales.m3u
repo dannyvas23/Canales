@@ -1,0 +1,165 @@
+#EXTM3U
+
+#MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="M2O TV" tvg-logo="" group-title="MUSICA", M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+
+
+
+#VARIADO
+#EXTINF:-1 tvg-id="" tvg-name=" History LatinoamÃ©rica" tvg-logo="" group-title="MUNDO Y CULTURA", History LatinoamÃ©rica
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/315
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet Latinoamerica" tvg-logo="" group-title="MUNDO Y CULTURA", Animal Planet Latinoamerica
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/259
+
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery Channel" tvg-logo="" group-title="MUNDO Y CULTURA", Discovery Channel
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/283
+
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery Turbo" tvg-logo="" group-title="MUNDO Y CULTURA", Discovery Turbo
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/286
+
+#EXTINF:-1 tvg-id="" tvg-name=" Investigation Discovery" tvg-logo="" group-title="MUNDO Y CULTURA", Investigation Discovery
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/321
+
+
+#SERIES
+#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD" tvg-logo="" group-title="SERIES",THE WALKING DEAD
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/10
+
+#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS" tvg-logo="" group-title="SERIES", STRANGER THINGS
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/70
+
+#EXTINF:-1 tvg-id="" tvg-name="CORAJE EL PERRO COBARDE" tvg-logo="" group-title="SERIES", CORAJE EL PERRO COBARDE
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/4
+
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 1984" tvg-logo="" group--title="SERIES", DRAGON BALL 1984
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/7
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON  BALL SUPER" tvg-logo="" group-title="24/7",24/7 DRAGON  BALL SUPER
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/25
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT 1996" tvg-logo="" group-title="24/7",24/7 DRAGON BALL GT 1996
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/26
+
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON" tvg-logo="" group-title="SERIES", LOS SIMPSON
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SMALLVILLE" tvg-logo="" group-title="24/7",24/7 SMALLVILLE
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/68
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/46
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING  BAD" tvg-logo="" group-title="24/7",24/7 BREAKING  BAD
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/17
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="" group-title="24/7",24/7 EL CHAVO DEL 8
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/30
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/40
+
+
+
+#INFANTIL
+#EXTINF:-1 tvg-id="" tvg-name=" Disney Channel MÃ©xico" tvg-logo="" group-title="Infantil", Disney Channel MÃ©xico
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/287
+
+#EXTINF:-1 tvg-id="" tvg-name=" Disney Junior Mexico" tvg-logo="" group-title="Infantil", Disney Junior Mexico
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/288
+
+#EXTINF:-1 tvg-id="" tvg-name=" Disney XD Mexico" tvg-logo="" group-title="Infantil", Disney XD Mexico
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/289
+
+#EXTINF:-1 tvg-id="" tvg-name=" Nickelodeon Norte" tvg-logo="" group-title="Infantil", Nickelodeon Norte
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/336
+
+
+
+#CINE
+
+#EXTINF:-1 tvg-id="" tvg-name=" TNT America Latina" tvg-logo="" group-title="CINE", TNT America Latina
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/351
+
+#EXTINF:-1 tvg-id="" tvg-name=" TNT Series MÃ©xico" tvg-logo="" group-title="CINE", TNT Series MÃ©xico
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/352
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Action" tvg-logo="" group-title="CINE" ,Star Action
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/564
+
+#EXTINF:-1 tvg-id="" tvg-name="Axn" tvg-logo="" group-title="CINE", Axn
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/263
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E Latinoamerica" tvg-logo="" group-title="CINE", A&E Latinoamerica
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/258
+
+#EXTINF:-1 tvg-id="" tvg-name=" Cinecanal Oeste" tvg-logo="" group-title="CINE", Cinecanal Oeste
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/275
+
+#EXTINF:-1 tvg-id="" tvg-name=" FoX Channel" tvg-logo="" group-title="CINE", FoX Channel
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/295
+
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Premium Action" tvg-logo="" group-title="CINE", Fox Premium Action
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/297
+
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Premium Family Oeste" tvg-logo="" group-title="CINE", Fox Premium Family Oeste
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/300
+
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Premium Movies" tvg-logo="" group-title="CINE", Fox Premium Movies
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/301
+
+#EXTINF:-1 tvg-id="" tvg-name=" FX" tvg-logo="" group-title="CINE", FX
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/306
+
+#EXTINF:-1 tvg-id="" tvg-name=" FXM Oeste" tvg-logo="" group-title="CINE", FXM Oeste
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/307
+
+#EXTINF:-1 tvg-id="" tvg-name=" HBO + Latinoamerica" tvg-logo="" group-title="CINEMA", HBO + Latinoamerica
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/309
+
+#EXTINF:-1 tvg-id="" tvg-name=" HBO 2 Latinoamerica" tvg-logo="" group-title="CINEMA", HBO 2 Latinoamerica
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/310
+
+#EXTINF:-1 tvg-id="" tvg-name=" HBO Family Latinoamerica" tvg-logo="" group-title="CINE", HBO Family Latinoamerica
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/311
+
+#EXTINF:-1 tvg-id="" tvg-name=" HBO LatinoamÃ©rica" tvg-logo="" group-title="CINE", HBO LatinoamÃ©rica
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/312
+
+#EXTINF:-1 tvg-id="" tvg-name=" Hbo Xtreme" tvg-logo="" group-title="CINE", Hbo Xtreme
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/313
+
+#EXTINF:-1 tvg-id="" tvg-name=" Paramount Network Latin America" tvg-logo="" group-title="CINE", Paramount Network Latin America
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/340
+
+#EXTINF:-1 tvg-id="" tvg-name=" Space MExico" tvg-logo="" group-title="CINE", Space MExico
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/345
+
+#EXTINF:-1 tvg-id="" tvg-name=" Studio Universal" tvg-logo="" group-title="CINE", Studio Universal
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/346
+
+#EXTINF:-1 tvg-id="" tvg-name=" Universal TV" tvg-logo="" group-title="CINE", Universal TV
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/355
+
+#EXTINF:-1 tvg-id="" tvg-name=" Warner Channel" tvg-logo="" group-title="CINE", Warner Channel
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/359
+
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Premium Series Oeste" tvg-logo="" group-title="CINE", Fox Premium Series Oeste
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/302
+
+
+
+
+
+#NOVELAS
+#EXTINF:-1 tvg-id="" tvg-name=" Las Estrellas MÃ©xico" tvg-logo="" group-title="NOVELAS", ShortGod Las Estrellas MÃ©xico
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/324
+
+
+
+#DEPORTES
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2
+http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/565
